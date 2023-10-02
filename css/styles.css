@@ -48,7 +48,7 @@ p {
 /* Navigation Bar */
 
 .navbar {
-  padding: 0 0 4.5rem;
+  padding: 0 0 4.6rem;
 }
 
 .navbar-brand {
@@ -135,7 +135,7 @@ p {
 
 .press-logo {
   margin: 20px 20px 45px;
-  width: 15%;
+  width: 14.9%;
 }
 
 /* Pricing Section */
@@ -145,7 +145,7 @@ p {
 }
 
 .pricing-column {
-  padding: 3% 2%;
+  padding: 3% 1.9%;
 }
 
 .price-text {
@@ -161,7 +161,7 @@ p {
 }
 
 .icon-1{
-    padding: 10px;
+    padding: 9.8px;
 }
 
 @media (max-width:1028px) {
